@@ -1,1 +1,1 @@
-# L3FT
+This paper includes HDI data imputation and cycle life prediction. Thus, we provide the codes of L3FT model for imputation and M1 model for cycle life prediction. Since the HDI tensor data file is large, it is uploaded to Baidu Netdisk.
